@@ -18,5 +18,8 @@ layout: home
 # Workshop schedule
 
 # Organizers
+| ![](assets/img/i1.jpg) | ![](assets/img/i2.jpg) |
+|:----------------------------------:|:----------------------------------:|
+| **Dr. Hazrat Ali**              | **Prof. Muhammad Bilal**              |
 
 Workshop informaion and text
