@@ -18,8 +18,17 @@ layout: home
 # Workshop schedule
 
 # Organizers
-| ![](assets/img/i1.jpg) | ![](assets/img/i2.jpg) |
-|:----------------------------------:|:----------------------------------:|
-| **Dr. Hazrat Ali**              | **Prof. Muhammad Bilal**              |
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="assets/img/i1.jpg" alt="Hazrat" style="width: 180px; height: 180px; border-radius: 50%;">
+    <p><strong>Dr. Hazrat Ali</strong></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/img/i2.jpg" alt="Bilal" style="width: 180px; height: 180px; border-radius: 50%;">
+    <p><strong>Prof. Muhammad Bilal</strong></p>
+  </div>
+</div>
+
 
 Workshop informaion and text
