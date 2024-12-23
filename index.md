@@ -10,7 +10,7 @@ layout: home
 <div style="text-align: center; margin-top: 20px;">
   <h1>Special Session on AI in Robot Assisted Surgery</h1>
   <h3>Special Session at</h3>
-  <h3><a href="https://conferences.leeds.ac.uk/miua/" style="color: inherit;">UK Conference on Medical Image Understanding and Analysis – MIUA 2025</a></h3>
+  <h3><a href="https://conferences.leeds.ac.uk/miua/">UK Conference on Medical Image Understanding and Analysis – MIUA 2025</a></h3>
   
 </div>
 
