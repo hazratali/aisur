@@ -31,11 +31,20 @@ layout: home
 </div>
 
 # Important Dates*
+```
 -	Paper Submission Deadline: Monday 24 March 2025
 -	Author Notification (Regular Papers): Friday 2 May 2025
 -	Camera-ready regular papers due: Monday 2 June 2025
 -	Early bird and oral presenters registration deadline: Monday 9 June 2025
 -	Special session date: Tuesday 15 - Thursday 17 July 2025
+```
+
+Paper submission deadline | Monday 24 March 2025  | 
+------------------------- | --------------------- | 
+Author Notification       | Friday 2 May 2025     | 
+Camera-ready submissions  | Monday 2 June 2025| 
+Registration              | Monday 9 June 2025| 
+Special session date      | 15 or 16 or 17 July 205 (TBC)| 
 
 *The special session follows the key dates of the MIUA conference. 
 
