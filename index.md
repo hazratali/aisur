@@ -51,7 +51,6 @@ To be announced.
 Dr. Hazrat Ali, ali.hazrat@stir.ac.uk 
 
 # Organizers' affiliations
-| ![](assets/img/logo1.png) | ![](assets/img/logo2.png) |
-|----------------------------------|----------------------------------|
+![](assets/img/logo1.png)  ![](assets/img/logo2.png) 
 
 
