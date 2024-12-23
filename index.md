@@ -44,3 +44,5 @@ The special session follows the MIUA conference paper template. Link to be provi
 # Workshop schedule
 To be annouced. 
 
+# Contact us
+Dr. Hazrat Ali, ali.hazrat@stir.ac.uk 
