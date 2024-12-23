@@ -1,10 +1,9 @@
 ---
 layout: page
-title: CFP
+title: Call for papers
 permalink: /cfp/
 ---
 
-# Call for papers
 Robot-assisted surgery is a represents one of the most complicated and rapidly evolving domains in modern healthcare. As Artificial Intelligence (AI) continues to rapidly transform healthcare with applications in disease diagnosis, prognosis, personalized medicine, and healthcare education, the surgical landscape is also poised to experience an enhancement in precision, accuracy, speed and scaling. The applications and decision making of AI for improvement and optimization in surgical care extends to preoperative, intraoperative, and postoperative phases. These applications include enabling telesurgery procedures, improving surgical procedure navigation, and advancing surgical image and video analysis. Furthermore, AI demonstrate immense potential in transforming surgical education and training through better video analysis, advancing surgical simulation, and providing robust skills assessment tools. Thus, there is rising interest in developing and using AI-based tools and methods in robot assisted surgical care. 
 This special session aims to cover the rapid developments in AI for robot assisted surgical care encompassing the potential, applications, and the practical challenges that lie ahead in transforming AI tools in clinical robot assisted surgical procedures. The special session will bring together researchers and experts at the intersection of AI and surgical sharing new and existing methods in AI for robot assisted surgery. The participants will get an opportunity to exchange ideas and build collaborations that will have a lasting impact on both research and clinical practice in Surgical AI. 
 

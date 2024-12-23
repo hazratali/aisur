@@ -42,7 +42,7 @@ layout: home
 The special session follows the MIUA conference paper template. Link to be provided here. Paper submissions will be handled through CMT and managed by the MIUA committee. 
 
 # Workshop schedule
-To be annouced. 
+To be announced. 
 
 # Contact us
 Dr. Hazrat Ali, ali.hazrat@stir.ac.uk 
