@@ -51,6 +51,14 @@ To be announced.
 Dr. Hazrat Ali, ali.hazrat@stir.ac.uk 
 
 # Organizers' affiliations
-![](assets/img/logo1.png)  ![](assets/img/logo2.png) 
+<div style="display: flex; justify-content: center; gap: 40px;">
+  <div style="text-align: center;">
+    <img src="assets/img/logo1.png" alt="Hazrat" style="width: 250px; border-radius: 0;">
+  </div>
+  <div style="text-align: center;">
+    <img src="assets/img/logo2.png" alt="Bilal" style="width: 250px; border-radius: 0;">
+  </div>
+</div>
+
 
 
