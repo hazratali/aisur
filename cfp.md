@@ -8,6 +8,7 @@ Robot-assisted surgery is a represents one of the most complicated and rapidly e
 This special session aims to cover the rapid developments in AI for robot assisted surgical care encompassing the potential, applications, and the practical challenges that lie ahead in transforming AI tools in clinical robot assisted surgical procedures. The special session will bring together researchers and experts at the intersection of AI and surgical sharing new and existing methods in AI for robot assisted surgery. The participants will get an opportunity to exchange ideas and build collaborations that will have a lasting impact on both research and clinical practice in Surgical AI. 
 
 The scope of this special session aims to cover a wide range of topics related to AI in surgical care. The topic of interest include, but not limited to: 
+```
 -	AI enabled autonomous or semi-autonomous system for robot assisted surgery
 -	AI in intraoperative navigation of robot assisted surgery.
 -	AI enabled teleoperated robot assisted surgery. 
@@ -23,6 +24,7 @@ The scope of this special session aims to cover a wide range of topics related t
 -	Ethics and Trust in AI for robot assisted surgery. 
 -	Robustness of AI enabled robot assisted surgery.
 -	Curation of datasets to enable training/evaluation of AI models in robot assisted surgery. 
+```
 
 ## Keywords
 Robot assisted surgery, Surgical Data Science, Endoscopy, Medical AI, AI in Healthcare, Medical Imaging, Generative AI. 
