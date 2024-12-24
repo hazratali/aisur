@@ -48,7 +48,7 @@ The special session follows the MIUA conference paper template. Link to be provi
 To be announced. 
 
 # Contact us
-Dr. Hazrat Ali, ali.hazrat@stir.ac.uk 
+**Dr. Hazrat Ali**, ali.hazrat@stir.ac.uk 
 
 ---
 
@@ -62,5 +62,6 @@ Dr. Hazrat Ali, ali.hazrat@stir.ac.uk
   </div>
 </div>
 
+---
 
 
