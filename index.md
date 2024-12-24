@@ -44,11 +44,12 @@ Special session date      | 15 or 16 or 17 July 205 (TBC)|
 # Instructions for authors
 The special session follows the MIUA conference paper template. Link to be provided here. Paper submissions will be handled through CMT and managed by the MIUA committee. 
 
-# Workshop schedule
+# Schedule
 To be announced. 
 
 # Contact us
 Dr. Hazrat Ali, ali.hazrat@stir.ac.uk 
+---
 
 # Organizers' affiliations
 <div style="display: flex; justify-content: center; gap: 40px;">
