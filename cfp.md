@@ -9,7 +9,7 @@ This special session aims to explore and identify key areas for rapid developmen
 
 The scope of this special session includes a wide range of topics related to AI in surgical care. Topics of interest include, but are not limited to:
 
-### Data amd Model Development
+### Data and Model Development
 -	Curating high-fidelity, open-access surgical datasets for AI training and validation.
 -	Innovative methods for self-supervised and semi-supervised learning in surgical AI applications.
 -	Development and application of foundation models for surgery.
