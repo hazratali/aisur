@@ -71,6 +71,9 @@ To be announced.
   <div style="text-align: center;">
     <img src="assets/img/logo2.png" alt="Bilal" style="width: 250px; border-radius: 0;">
   </div>
+  <div style="text-align: center;">
+    <img src="assets/img/logo3.png" alt="Bilal" style="width: 250px; border-radius: 0;">
+  </div>
 </div>
 
 ---

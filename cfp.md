@@ -9,7 +9,6 @@ Artificial Intelligence (AI) continues to transform healthcare with applications
 This special session aims to explore and identify key areas for rapid developments in AI for all types of surgical care (robotic, minimal access and open), encompassing its potential, diverse applications, and the practical challenges that lie ahead in integrating AI tools into clinical procedures. The session will bring together domain experts from computer science and clinical surgery to facilitate cross-disciplinary dialogue and share new and existing methods in AI for different surgical procedures. Participants will have the opportunity to exchange ideas and build collaborations that will leave a lasting impact on both research and clinical practice in Surgical AI.
 
 The scope of this special session includes a wide range of topics related to AI in surgical care. Topics of interest include, but are not limited to:
- 
 
 ### Data amd Model Development
 -	Curating high-fidelity, open-access surgical datasets for AI training and validation.
