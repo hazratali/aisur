@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for papers
-permalink: /cfp2/
+permalink: /cfp/
 ---
 Artificial Intelligence (AI) continues to transform healthcare with applications in disease diagnosis, prognosis, personalized medicine, and education. The surgical landscape is poised to benefit significantly in terms of precision, accuracy, efficiency, and scalability. The applications of AI in optimizing surgical care extend to the preoperative, intraoperative, and postoperative phases. This will be relevant to all surgical specialities: neurosurgery, cardiothoracic, gastrointestinal, sarcoma, orthopaedic, plastic and vascular surgery. These include enabling telesurgery procedures, improving surgical navigation, and advancing surgical image and video analysis. Furthermore, AI demonstrates immense potential in transforming surgical education and training through enhanced video analysis, advanced surgical simulations, and robust skills assessment tools. As a result, there is growing interest in developing and implementing AI-based tools and methods in surgical care.
 
@@ -14,10 +14,12 @@ The scope of this special session includes a wide range of topics related to AI 
 -	Innovative methods for self-supervised and semi-supervised learning in surgical AI applications.
 -	Development and application of foundation models for surgery.
 -	Data augmentation techniques tailored for surgical scenarios.
+
 ### Preoperative, Intraoperative, and Postoperative AI Applications
 -	AI-powered decision support systems for preoperative planning and risk assessment.
 -	Real-time AI for intraoperative surgical guidance and navigation.
 -	AI in postoperative monitoring and outcome prediction.
+
 ### Emerging Technologies and Innovations
 -	Surgical Patient Digital Twins for personalized simulation and planning.
 -	AI for robotic-assisted surgery, including teleoperated and autonomous systems.
@@ -31,10 +33,12 @@ The scope of this special session includes a wide range of topics related to AI 
 -	Human-AI collaboration in surgery to enhance collective intelligence.
 -	Strategies for engaging clinicians in co-creating AI applications.
 -	Challenges and solutions for integrating AI into clinical workflows.
+
 ### Security, Ethics, and Trust
 -	Secure and robust AI systems for surgical care.
 -	Addressing ethical considerations and building trust in AI for surgery.
 -	Ensuring regulatory compliance for AI-based surgical tools.
+
 ### Evaluation and Validation
 -	Benchmarking AI performance in surgical environments.
 -	Clinical trials and real-world validation of AI tools.
