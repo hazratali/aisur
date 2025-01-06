@@ -4,28 +4,45 @@ title: Call for papers
 permalink: /cfp/
 ---
 
-Robot-assisted surgery is a represents one of the most complicated and rapidly evolving domains in modern healthcare. As Artificial Intelligence (AI) continues to rapidly transform healthcare with applications in disease diagnosis, prognosis, personalized medicine, and healthcare education, the surgical landscape is also poised to experience an enhancement in precision, accuracy, speed and scaling. The applications and decision making of AI for improvement and optimization in surgical care extends to preoperative, intraoperative, and postoperative phases. These applications include enabling telesurgery procedures, improving surgical procedure navigation, and advancing surgical image and video analysis. Furthermore, AI demonstrate immense potential in transforming surgical education and training through better video analysis, advancing surgical simulation, and providing robust skills assessment tools. Thus, there is rising interest in developing and using AI-based tools and methods in robot assisted surgical care. 
-This special session aims to cover the rapid developments in AI for robot assisted surgical care encompassing the potential, applications, and the practical challenges that lie ahead in transforming AI tools in clinical robot assisted surgical procedures. The special session will bring together researchers and experts at the intersection of AI and surgical sharing new and existing methods in AI for robot assisted surgery. The participants will get an opportunity to exchange ideas and build collaborations that will have a lasting impact on both research and clinical practice in Surgical AI. 
+Artificial Intelligence (AI) continues to transform healthcare with applications in disease diagnosis, prognosis, personalized medicine, and education. The surgical landscape is poised to benefit significantly in terms of precision, accuracy, efficiency, and scalability. The applications of AI in optimizing surgical care extend to the preoperative, intraoperative, and postoperative phases. This will be relevant to all surgical specialities: neurosurgery, cardiothoracic, gastrointestinal, sarcoma, orthopaedic, plastic and vascular surgery. These include enabling telesurgery procedures, improving surgical navigation, and advancing surgical image and video analysis. Furthermore, AI demonstrates immense potential in transforming surgical education and training through enhanced video analysis, advanced surgical simulations, and robust skills assessment tools. As a result, there is growing interest in developing and implementing AI-based tools and methods in surgical care.
 
-The scope of this special session aims to cover a wide range of topics related to AI in surgical care. The topic of interest include, but not limited to: 
-```
--	AI enabled autonomous or semi-autonomous system for robot assisted surgery
--	AI in intraoperative navigation of robot assisted surgery.
--	AI enabled teleoperated robot assisted surgery. 
--	AI techniques for robot assisted surgical video processing. 
--	Generative AI applications in robot assisted surgery.
--	Generative AI in surgical education and training. 
--	Generative AI in postoperative summarization and report preparation for robot assisted surgery. 
--	Safety challenges in AI for robot assisted surgery. 
--	Robustness of AI enabled robot assisted surgery. 
--	Challenges in integration of AI into clinical surgical procedures. 
--	Human-robot interaction and collaboration in AI-enabled robot assisted surgery. 
--	AI in robotic design for robot assisted surgery. 
--	Ethics and Trust in AI for robot assisted surgery. 
--	Robustness of AI enabled robot assisted surgery.
--	Curation of datasets to enable training/evaluation of AI models in robot assisted surgery. 
-```
+This special session aims to explore and identify key areas for rapid developments in AI for all types of surgical care (robotic, minimal access and open), encompassing its potential, diverse applications, and the practical challenges that lie ahead in integrating AI tools into clinical procedures. The session will bring together domain experts from computer science and clinical surgery to facilitate cross-disciplinary dialogue and share new and existing methods in AI for different surgical procedures. Participants will have the opportunity to exchange ideas and build collaborations that will leave a lasting impact on both research and clinical practice in Surgical AI.
+
+The scope of this special session includes a wide range of topics related to AI in surgical care. Topics of interest include, but are not limited to:
+ 
+
+### Data amd Model Development
+-	Curating high-fidelity, open-access surgical datasets for AI training and validation.
+-	Innovative methods for self-supervised and semi-supervised learning in surgical AI applications.
+-	Development and application of foundation models for surgery.
+-	Data augmentation techniques tailored for surgical scenarios.
+### Preoperative, Intraoperative, and Postoperative AI Applications
+-	AI-powered decision support systems for preoperative planning and risk assessment.
+-	Real-time AI for intraoperative surgical guidance and navigation.
+-	AI in postoperative monitoring and outcome prediction.
+### Emerging Technologies and Innovations
+-	Surgical Patient Digital Twins for personalized simulation and planning.
+-	AI for robotic-assisted surgery, including teleoperated and autonomous systems.
+-	Multimodal data fusion for enhanced surgical decision-making.
+-	Advancements in AI-driven surgical simulation and training.
+### Surgical Video and Image Analysis
+-	Sustainable AI solutions for surgical video processing and annotation.
+-	AI for surgical skill assessment using video analytics.
+-	Real-time segmentation and object detection in surgical images.
+### Collaboration and Integration
+-	Human-AI collaboration in surgery to enhance collective intelligence.
+-	Strategies for engaging clinicians in co-creating AI applications.
+-	Challenges and solutions for integrating AI into clinical workflows.
+### Security, Ethics, and Trust
+-	Secure and robust AI systems for surgical care.
+-	Addressing ethical considerations and building trust in AI for surgery.
+-	Ensuring regulatory compliance for AI-based surgical tools.
+### Evaluation and Validation
+-	Benchmarking AI performance in surgical environments.
+-	Clinical trials and real-world validation of AI tools.
+-	Metrics and methodologies for evaluating AI in surgery.
+
 
 ## Keywords
-Robot assisted surgery, Surgical Data Science, Endoscopy, Medical AI, AI in Healthcare, Medical Imaging, Generative AI. 
+Robot assisted, minimal access and open surgery, Surgical Data Science, Endoscopy Vision, Medical AI, AI in Surgery, Medical Image Analysis, Generative AI. 
 

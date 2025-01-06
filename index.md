@@ -37,7 +37,7 @@ The proceedings of the MIUA conference are published in the Springer LNCS series
   <div style="text-align: center;">
     <img src="assets/img/no-image-50.png" alt="Bilal" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Prof. Shahzad Ashraf</strong></p>
-    <p>university Hospitals Birmingham NHS Foundation Trust</p>
+    <p>University Hospitals Birmingham NHS Foundation Trust</p>
   </div>  
 </div>
 
