@@ -25,10 +25,12 @@ The scope of this special session includes a wide range of topics related to AI 
 -	AI for robotic-assisted surgery, including teleoperated and autonomous systems.
 -	Multimodal data fusion for enhanced surgical decision-making.
 -	Advancements in AI-driven surgical simulation and training.
+
 ### Surgical Video and Image Analysis
 -	Sustainable AI solutions for surgical video processing and annotation.
 -	AI for surgical skill assessment using video analytics.
 -	Real-time segmentation and object detection in surgical images.
+
 ### Collaboration and Integration
 -	Human-AI collaboration in surgery to enhance collective intelligence.
 -	Strategies for engaging clinicians in co-creating AI applications.
