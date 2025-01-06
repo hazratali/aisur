@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Call for papers
-permalink: /cfp/
+permalink: /cfp2/
 ---
 Artificial Intelligence (AI) continues to transform healthcare with applications in disease diagnosis, prognosis, personalized medicine, and education. The surgical landscape is poised to benefit significantly in terms of precision, accuracy, efficiency, and scalability. The applications of AI in optimizing surgical care extend to the preoperative, intraoperative, and postoperative phases. This will be relevant to all surgical specialities: neurosurgery, cardiothoracic, gastrointestinal, sarcoma, orthopaedic, plastic and vascular surgery. These include enabling telesurgery procedures, improving surgical navigation, and advancing surgical image and video analysis. Furthermore, AI demonstrates immense potential in transforming surgical education and training through enhanced video analysis, advanced surgical simulations, and robust skills assessment tools. As a result, there is growing interest in developing and implementing AI-based tools and methods in surgical care.
 
