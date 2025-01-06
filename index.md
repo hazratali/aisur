@@ -15,6 +15,12 @@ layout: home
   
 </div>
 
+# About MIUA
+The MIUA conference is a premier UK-based conference in medical imaging, organized and supported by the [British Machine Vision Association](https://www.bmva.org/). MIUA is the principal UK forum for communicating research progress within the community interested in image analysis applied to medicine and related biological science. The meeting is designed for the dissemination and discussion of research in medical image understanding and analysis, and aims to encourage the growth and raise the profile of this multi-disciplinary field by bringing together the various communities. 
+
+
+The proceedings of the MIUA conference are published in the Springer LNCS series (a well-known series).
+
 # Organizers
 
 <div style="display: flex; justify-content: center; gap: 40px;">
@@ -28,6 +34,11 @@ layout: home
     <p><strong>Prof. Muhammad Bilal</strong></p>
     <p>Birmingham City University</p>
   </div>
+  <div style="text-align: center;">
+    <img src="assets/img/no-image-50.png" alt="Bilal" style="width: 180px; height: 180px; border-radius: 50%;">
+    <p><strong>Prof. Shahzad Ashraf</strong></p>
+    <p>university Hospitals Birmingham NHS Foundation Trust</p>
+  </div>  
 </div>
 
 # Important Dates*
