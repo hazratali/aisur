@@ -36,9 +36,10 @@ The special session on AI in surgery aims to explore and identify key areas for 
     <p>Birmingham City University</p>
   </div>
   <div style="text-align: center;">
-    <img src="assets/img/no-image-50.png" alt="Shazad" style="width: 180px; height: 180px; border-radius: 50%;">
+    <img src="assets/img/i3.png" alt="Shazad" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Prof. Shazad Ashraf</strong></p>
-    <p>University Hospitals Birmingham NHS Foundation Trust</p>
+    <p>University Hospitals Birmingham</p>
+    <p>NHS Foundation Trust</p>
   </div>  
 </div>
 
