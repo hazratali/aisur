@@ -22,6 +22,27 @@ The proceedings of the MIUA conference are published in the Springer LNCS series
 
 The special session on AI in surgery aims to explore and identify key areas for rapid developments in AI for surgical care, encompassing its potential, diverse applications, and the practical challenges that lie ahead in integrating AI tools into clinical procedures. The session will bring together domain experts from computer science and clinical surgery to facilitate cross-disciplinary dialogue and share new and existing methods in AI for different surgical procedures. Participants will have the opportunity to exchange ideas and build collaborations that will leave a lasting impact on both research and clinical practice in Surgical AI.
 
+
+# Important Dates*
+
+Paper submission deadline | Monday 24 March 2025  | 
+------------------------- | --------------------- | 
+Author Notification       | Friday 2 May 2025     | 
+Camera-ready submissions  | Monday 2 June 2025| 
+Registration              | Monday 9 June 2025| 
+Special session date      | 15 or 16 or 17 July 205 (TBC)| 
+
+*The special session follows the key dates of the MIUA conference. 
+
+# Instructions for authors
+Authors are invited to submit **full papers** of length between 8 and 15 pages (1 column – the LNCS template) and following the Springer Author Guidelines, showing original research contributions under the topics of the conference. Guidelines for paper preparation and submission link are available on: 
+https://conferences.leeds.ac.uk/miua/paper-abstract-submission/  
+
+- Paper submissions will be handled through CMT and managed by the MIUA committee. 
+- All papers must be submitted through the MIUA2025 CMT page. 
+- Authors will be able to choose the special session during the submission process. 
+- The review process of all the submitted papers will be done independently by the MIUA organisation team. 
+
 # Organizers
 
 <div style="display: flex; justify-content: center; gap: 40px;">
@@ -42,20 +63,6 @@ The special session on AI in surgery aims to explore and identify key areas for 
     <p>NHS Foundation Trust</p>
   </div>  
 </div>
-
-# Important Dates*
-
-Paper submission deadline | Monday 24 March 2025  | 
-------------------------- | --------------------- | 
-Author Notification       | Friday 2 May 2025     | 
-Camera-ready submissions  | Monday 2 June 2025| 
-Registration              | Monday 9 June 2025| 
-Special session date      | 15 or 16 or 17 July 205 (TBC)| 
-
-*The special session follows the key dates of the MIUA conference. 
-
-# Instructions for authors
-The special session follows the MIUA conference paper template. Link to be provided here. Paper submissions will be handled through CMT and managed by the MIUA committee. 
 
 # Schedule
 To be announced. 
