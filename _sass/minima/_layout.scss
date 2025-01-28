@@ -3,7 +3,7 @@
  */
 .site-header {
   border-top: 10px solid $border-color-03;
-  border-bottom: 5px solid $border-color-01;
+  border-bottom: 10px solid $border-color-01;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
 
@@ -32,7 +32,7 @@
   position: absolute;
   top: 11px;
   right: $spacing-unit * .5;
-  background-color: #5f03f4; //$background-color;
+  background-color: $background-color;
   border: 1px solid $border-color-01;
   border-radius: 5px;
   text-align: right;
@@ -312,7 +312,7 @@
   @extend .social-media-list;
   li {
     a, div {
-      min-width: 41px;
+      min-width: 49px;
       text-align: center;
       box-sizing: border-box;
     }
