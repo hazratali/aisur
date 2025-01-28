@@ -37,10 +37,11 @@ Special session date      | 15 or 16 or 17 July 205 (TBC)|
 # Instructions for authors
 Authors are invited to submit **full papers** of length between 8 and 15 pages (1 column – the LNCS template) and following the Springer Author Guidelines, showing original research contributions under the topics of the conference. Guidelines for paper preparation and submission link are available on: [https://conferences.leeds.ac.uk/miua/paper-abstract-submission/](https://conferences.leeds.ac.uk/miua/paper-abstract-submission/)  
 
-- Paper submissions will be handled through CMT and managed by the MIUA committee. 
 - All papers must be submitted through the MIUA2025 CMT page. 
+- Paper submissions will be handled through CMT and managed by the MIUA committee. 
 - Authors will be able to choose the special session during the submission process. 
 - The review process of all the submitted papers will be done independently by the MIUA organisation team. 
+- All submissions will be **double-blind** peer-reviewed.
 
 # Organizers
 
