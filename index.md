@@ -43,7 +43,8 @@ Special session date      | 15 or 16 or 17 July 205 (TBC)|
 - Authors will be able to choose the special session during the submission process. 
 - The review process of all the submitted papers will be done independently by the MIUA organisation team. 
 - All submissions will be **double-blind** peer-reviewed.
-- **Guidelines** for paper preparation and submission link are available on: [https://conferences.leeds.ac.uk/miua/paper-abstract-submission/](https://conferences.leeds.ac.uk/miua/paper-abstract-submission/)  
+- **Guidelines** for paper preparation and submission link are available on: [https://conferences.leeds.ac.uk/miua/paper-abstract-submission/](https://conferences.leeds.ac.uk/miua/paper-abstract-submission/) 
+- During submissions, make sure you choose the **Special Session on AI in Surgery (AISUR)** on the CMT submission platform.
 
 
 # Organizers
