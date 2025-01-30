@@ -53,17 +53,20 @@ Special session date      | 15 or 16 or 17 July 205 (TBC)|
     <img src="assets/img/i1.jpg" alt="Hazrat" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Dr. Hazrat Ali</strong></p>
     <p>University of Stirling</p>
+    <p>Lead Co-chair</p>
   </div>
   <div style="text-align: center;">
     <img src="assets/img/i2.jpg" alt="Bilal" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Prof. Muhammad Bilal</strong></p>
     <p>Birmingham City University</p>
+    <p>Co-chair</p>
   </div>
   <div style="text-align: center;">
     <img src="assets/img/shaz.png" alt="Shazad" style="width: 180px; height: 180px; border-radius: 50%;">
     <p><strong>Prof. Shazad Ashraf</strong></p>
     <p>University Hospitals Birmingham</p>
     <p>NHS Foundation Trust</p>
+    <p>Co-chair</p>
   </div>  
 </div>
 
