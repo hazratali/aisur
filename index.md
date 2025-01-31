@@ -16,10 +16,9 @@ layout: home
 </div>
 
 <html lang="en">
-<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Full-Width Centered Video</title>
+    <title>no</title>
     <style>
         /* Use CSS Grid to center the video */
         .video-container {
@@ -33,7 +32,6 @@ layout: home
             height: 80%; /* Maintains aspect ratio */
         }
     </style>
-</head>
     <div class="video-container">
         <video autoplay loop muted>
             <source src="assets/img/video1.mp4" type="video/mp4">
