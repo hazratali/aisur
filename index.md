@@ -15,10 +15,10 @@ layout: home
   <h3><a href="https://conferences.leeds.ac.uk/miua/">UK Conference on Medical Image Understanding and Analysis – MIUA 2025</a></h3>
 </div>
 
-<html lang="en">
+<!-- <html lang="en">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>no</title>
+<title>no</title> -->
 <style>
         /* Use CSS Grid to center the video */
     .video-container {
@@ -28,17 +28,16 @@ layout: home
         background-color: #f0f0f0; /* Optional background */
     }
     video {
-            width: 80%; /* Makes the video full width */
-            height: 80%; /* Maintains aspect ratio */
+        width: 80%; /* Makes the video full width */
+        height: 80%; /* Maintains aspect ratio */
     }
 </style>
 <div class="video-container">
-        <video autoplay loop muted>
-            <source src="assets/img/video1.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
+    <video autoplay loop muted>
+    <source src="assets/img/video1.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+    </video>
 </div>
-
 
 
 
