@@ -7,6 +7,14 @@
 #
 layout: home
 ---
+
+<div style="text-align: center; margin-top: 24px;">
+  <h3>Special Session on</h3>
+  <h1>AI in Surgery</h1>
+  <h3>Special Session at</h3>
+  <h3><a href="https://conferences.leeds.ac.uk/miua/">UK Conference on Medical Image Understanding and Analysis – MIUA 2025</a></h3>
+</div>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -26,23 +34,16 @@ layout: home
         }
     </style>
 </head>
-<body>
     <div class="video-container">
         <video autoplay loop muted>
             <source src="assets/img/video1.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
-</body>
 
 
-<div style="text-align: center; margin-top: 20px;">
-  <h3>Special Session on</h3>
-  <h1>AI in Surgery</h1>
-  <h3>Special Session at</h3>
-  <h3><a href="https://conferences.leeds.ac.uk/miua/">UK Conference on Medical Image Understanding and Analysis – MIUA 2025</a></h3>
-  
-</div>
+
+
 
 # About
 The MIUA conference is a premier UK-based conference in medical imaging, organized and supported by the [British Machine Vision Association](https://www.bmva.org/). MIUA is the principal UK forum for communicating research progress within the community interested in image analysis applied to medicine and related biological science. The meeting is designed for the dissemination and discussion of research in medical image understanding and analysis, and aims to encourage the growth and raise the profile of this multi-disciplinary field by bringing together the various communities. 
