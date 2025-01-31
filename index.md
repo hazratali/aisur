@@ -24,8 +24,8 @@ layout: home
     .video-container {
         display: grid;
         place-items: center; /* Centers both horizontally & vertically */
-        height: 100vh; /* Full viewport height */
-        background-color: #f0f0f0; /* Optional background */
+        height: 80vh; /* Full viewport height */
+        background-color:rgba(249, 247, 247, 0.04); /* Optional background */
     }
     video {
         width: 80%; /* Makes the video full width */
