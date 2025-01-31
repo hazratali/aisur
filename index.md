@@ -7,6 +7,31 @@
 #
 layout: home
 ---
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Full-Width Centered Video</title>
+    <style>
+        /* Use CSS Grid to center the video */
+        .video-container {
+            display: grid;
+            place-items: center; /* Centers both horizontally & vertically */
+            height: 100vh; /* Full viewport height */
+            background-color: #f0f0f0; /* Optional background */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="video-container">
+        <video width="640" height="360" autoplay loop muted>
+            <source src="assets/img/video1.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+</body>
+
 <div style="text-align: center; margin-top: 20px;">
   <h3>Special Session on</h3>
   <h1>AI in Surgery</h1>
