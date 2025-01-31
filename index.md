@@ -15,10 +15,10 @@ layout: home
   <h3><a href="https://conferences.leeds.ac.uk/miua/">UK Conference on Medical Image Understanding and Analysis – MIUA 2025</a></h3>
 </div>
 
-<!-- <html lang="en">
-<meta charset="UTF-8">
+<!-- <html lang="en"> -->
+<!-- <meta charset="UTF-8"> -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>no</title> -->
+<!-- <title>no</title> -->
 <style>
         /* Use CSS Grid to center the video */
     .video-container {
