@@ -20,17 +20,21 @@ layout: home
             height: 100vh; /* Full viewport height */
             background-color: #f0f0f0; /* Optional background */
         }
+        video {
+            width: 80%; /* Makes the video full width */
+            height: 80%; /* Maintains aspect ratio */
+        }
     </style>
 </head>
-
 <body>
     <div class="video-container">
-        <video width="640" height="360" autoplay loop muted>
+        <video autoplay loop muted>
             <source src="assets/img/video1.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
     </div>
 </body>
+
 
 <div style="text-align: center; margin-top: 20px;">
   <h3>Special Session on</h3>
