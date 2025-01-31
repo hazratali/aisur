@@ -16,28 +16,28 @@ layout: home
 </div>
 
 <html lang="en">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>no</title>
-    <style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>no</title>
+<style>
         /* Use CSS Grid to center the video */
-        .video-container {
-            display: grid;
-            place-items: center; /* Centers both horizontally & vertically */
-            height: 100vh; /* Full viewport height */
-            background-color: #f0f0f0; /* Optional background */
-        }
-        video {
+    .video-container {
+        display: grid;
+        place-items: center; /* Centers both horizontally & vertically */
+        height: 100vh; /* Full viewport height */
+        background-color: #f0f0f0; /* Optional background */
+    }
+    video {
             width: 80%; /* Makes the video full width */
             height: 80%; /* Maintains aspect ratio */
-        }
-    </style>
-    <div class="video-container">
+    }
+</style>
+<div class="video-container">
         <video autoplay loop muted>
             <source src="assets/img/video1.mp4" type="video/mp4">
             Your browser does not support the video tag.
         </video>
-    </div>
+</div>
 
 
 
