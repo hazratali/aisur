@@ -15,6 +15,10 @@ layout: home
   <h3><a href="https://conferences.leeds.ac.uk/miua/">UK Conference on Medical Image Understanding and Analysis – MIUA 2025</a></h3>
 </div>
 
+<div style="text-align: center;">
+    <img src="assets/img/miua-logo1.jpg" alt="ss" style="width: 400px; height=auto; border-radius: 0%;">
+</div>  
+
 <!-- <html lang="en"> -->
 <!-- <meta charset="UTF-8"> -->
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
