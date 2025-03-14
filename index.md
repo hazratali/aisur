@@ -56,7 +56,7 @@ The special session on AI in surgery aims to explore and identify key areas for 
 
 # Important Dates*
 
-Paper submission deadline | Monday 24 March 2025  | 
+Paper submission deadline | ~~Monday 24 March 2025~~ 07 April 2025  | 
 ------------------------- | --------------------- | 
 Author Notification       | Friday 2 May 2025     | 
 Camera-ready submissions  | Monday 2 June 2025| 
